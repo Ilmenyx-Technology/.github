@@ -8,7 +8,7 @@ está tudo bem com ele e fazer os jogos rodarem.
 Diagnóstico, monitoramento e benchmark de hardware para Linux, com ferramentas para jogos (estimativa de FPS, "por que o jogo
 não abre?", instalação de jogos de Windows). Em português, inglês e espanhol.
 
-**[Baixar](https://github.com/Ilmenyx-Technology/ilmenyx-controller/releases)** · [Código e documentação](https://github.com/Ilmenyx-Technology/ilmenyx-controller) · [Relatar um problema](https://github.com/Ilmenyx-Technology/ilmenyx-controller/issues/new/choose)
+**[Site](https://ilmenyx-technology.github.io)** · **[Baixar](https://github.com/Ilmenyx-Technology/ilmenyx-controller/releases/latest)** · [Código e documentação](https://github.com/Ilmenyx-Technology/ilmenyx-controller) · [Relatar um problema](https://github.com/Ilmenyx-Technology/ilmenyx-controller/issues/new/choose)
 
 ### Princípios
 - **Sem telemetria e sem rede escondida:** nada sai do seu PC sem você pedir.
