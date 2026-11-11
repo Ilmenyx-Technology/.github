@@ -8,7 +8,7 @@ está tudo bem com ele e fazer os jogos rodarem.
 Diagnóstico, monitoramento e benchmark de hardware para Linux, com ferramentas para jogos (estimativa de FPS, "por que o jogo
 não abre?", instalação de jogos de Windows). Em português, inglês e espanhol.
 
-**[Baixar](https://github.com/Ilmenyx-Technology/ilmenyx/releases)** · [Código e documentação](https://github.com/Ilmenyx-Technology/ilmenyx) · [Relatar um problema](https://github.com/Ilmenyx-Technology/ilmenyx/issues/new/choose)
+**[Baixar](https://github.com/Ilmenyx-Technology/ilmenyx-controller/releases)** · [Código e documentação](https://github.com/Ilmenyx-Technology/ilmenyx-controller) · [Relatar um problema](https://github.com/Ilmenyx-Technology/ilmenyx-controller/issues/new/choose)
 
 ### Princípios
 - **Sem telemetria e sem rede escondida:** nada sai do seu PC sem você pedir.
@@ -17,7 +17,7 @@ não abre?", instalação de jogos de Windows). Em português, inglês e espanho
 
 ### Contato e apoio
 - E-mail: **ilmenyx.technology@gmail.com**
-- Apoie o projeto: [Ko-fi](https://ko-fi.com/ilmenyxtechnology) ou Pix ([QR Code no README](https://github.com/Ilmenyx-Technology/ilmenyx#apoie-o-projeto))
+- Apoie o projeto: [Ko-fi](https://ko-fi.com/ilmenyxtechnology) ou Pix ([QR Code no README](https://github.com/Ilmenyx-Technology/ilmenyx-controller#apoie-o-projeto))
 
 <sub>English: Ilmenyx Technology makes free tools for everyday Linux and gaming. Ilmenyx Controller is a hardware diagnostics,
 monitoring and benchmark app for Linux, available in Portuguese, English and Spanish.</sub>
